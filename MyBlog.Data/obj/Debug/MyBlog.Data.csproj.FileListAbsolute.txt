@@ -1,0 +1,23 @@
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CopyComplete
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.pdb
+C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll.config
+C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll
+C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.pdb
+C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.dll
+C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.xml
+C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csprojAssemblyReference.cache
+C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CopyComplete
+C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.dll
+C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.pdb

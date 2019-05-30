@@ -1,0 +1,5 @@
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.DTO\bin\Debug\MyBlog.DTO.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.DTO\bin\Debug\MyBlog.DTO.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.pdb
