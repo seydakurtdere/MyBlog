@@ -26,7 +26,6 @@ namespace MyBlog.Panel.Controllers
             }
         }
 
-       
         public ActionResult Save()
         {
             return View();
@@ -38,10 +37,11 @@ namespace MyBlog.Panel.Controllers
             using (CategoryService service = new CategoryService())
             {
                 var result = service.Save(obj);
-                if (result >0)
+
+                if (result > 0)
                 {
-                    //Category/Get/5
-                    return RedirectToAction("Get",new { id=result});
+                    // Category/Get/5
+                    return RedirectToAction("Get", new { id = result });
                 }
                 else
                 {
@@ -59,16 +59,15 @@ namespace MyBlog.Panel.Controllers
 
                 return View(result);
             }
-          
         }
 
-        public ActionResult Edit(int id) //render sayfayı olusturuyo
+        public ActionResult Edit(int id)
         {
             using (DefinitionService service = new DefinitionService())
             {
                 ViewBag.RecordStatuses = service.GetRecordStatuses();
-
             }
+
             using (CategoryService service = new CategoryService())
             {
                 var result = service.Get(id);
@@ -78,15 +77,15 @@ namespace MyBlog.Panel.Controllers
         }
 
         [HttpPost]
-        public ActionResult Edit(CategoryDTO obj) //veri posr
+        public ActionResult Edit(CategoryDTO obj)
         {
-            
             using (CategoryService service = new CategoryService())
             {
                 var result = service.Update(obj);
+
                 if (result)
                 {
-                    //Category/Get/5
+                    // Category/Get/5
                     return RedirectToAction("Get", new { id = obj.CategoryId });
                 }
                 else

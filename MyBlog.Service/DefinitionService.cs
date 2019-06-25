@@ -19,7 +19,8 @@ namespace MyBlog.Service
                     CategoryDTO category = new CategoryDTO
                     {
                         CategoryId = item.CategoryId,
-                        CategoryName = item.CategoryName
+                        CategoryName = item.CategoryName,
+                        NumberOfBlogs = item.Blogs.Count
                     };
 
                     list.Add(category);
@@ -80,6 +81,13 @@ namespace MyBlog.Service
             using (UnitOfWork uow = new UnitOfWork())
             {
                 var result = uow.Towns.Search(x => x.CityID == cityId);
+
+                if (result.Count == 0)
+                {
+                    return null;
+                }
+
+               // throw new System.Exception("Hata oluştu");
 
                 List<TownDTO> list = new List<TownDTO>();
 

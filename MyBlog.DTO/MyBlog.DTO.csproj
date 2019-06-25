@@ -47,6 +47,7 @@
     <Compile Include="CommentDTO.cs" />
     <Compile Include="Enums.cs" />
     <Compile Include="IEntity.cs" />
+    <Compile Include="MailDTO.cs" />
     <Compile Include="MessageDTO.cs" />
     <Compile Include="NewsLetterDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

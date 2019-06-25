@@ -26,9 +26,9 @@ namespace MyBlog.Data
         public int CategoryId { get; set; }
         public string ImagePath { get; set; }
         public string BlogContent { get; set; }
-        public bool IsConfirmed { get; set; }
         public byte RecordStatusId { get; set; }
         public System.DateTime CreatedDate { get; set; }
+        public bool IsConfirmed { get; set; }
     
         public virtual Category Category { get; set; }
         public virtual RecordStatus RecordStatus { get; set; }

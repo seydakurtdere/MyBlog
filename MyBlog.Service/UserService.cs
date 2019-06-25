@@ -3,6 +3,7 @@ using MyBlog.Data.UnitOfWork;
 using MyBlog.DTO;
 using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace MyBlog.Service
 {
@@ -24,7 +25,26 @@ namespace MyBlog.Service
 
                     uow.Users.Save(entity);
 
-                    return uow.Commit();
+                    bool result = uow.Commit();
+
+                    if (result)
+                    {
+                        using (MailService mailService = new MailService())
+                        {
+                            MailDTO mail = new MailDTO
+                            {
+                                To = obj.EmailAddress,
+                                Subject = "E-posta doğrulama",
+                                Body = GetVerifyMailTemplate("http://localhost:58203/Account/Verify/" + obj.Token)
+                            };
+
+                            return mailService.SendMail(mail);
+                        }
+                    }
+                    else
+                    {
+                        return false;
+                    }
                 }
                 catch (Exception ex)
                 {
@@ -55,9 +75,7 @@ namespace MyBlog.Service
                             TownName = item.Town.TownName,
                             EmailAddress = item.EmailAddress,
                             IsEmailVerified = item.IsEmailVerified,
-                            CreatedDate = item.CreatedDate,
-                            UserTypeName=item.UserType.UserTypeName
-                            
+                            CreatedDate = item.CreatedDate
                         };
 
                         list.Add(obj);
@@ -84,7 +102,7 @@ namespace MyBlog.Service
                     user.CityId = result.Town.CityID;
                     user.CityName = result.Town.City.CityName;
                     user.TownName = result.Town.TownName;
-                    user.UserTypeName = result.UserType.UserTypeName;
+                    user.UserTypeName = result.UsersType.UserTypeName;
                     user.RecordStatusName = result.RecordStatus.RecordStatusName;
 
                     return user;
@@ -108,7 +126,7 @@ namespace MyBlog.Service
                     return uow.Commit();
                 }
                 catch (Exception ex
-)
+    )
                 {
                     uow.RollBack();
                     return false;
@@ -167,6 +185,15 @@ namespace MyBlog.Service
 
                 return this.Get(result.UserId);
             }
+        }
+
+        private string GetVerifyMailTemplate(string url)
+        {
+            var template = File.ReadAllText(@"C:\Users\Bülent Başyurt\Desktop\verify.txt");
+
+            template = template.Replace("#VerifyUrl#", url);
+
+            return template;
         }
     }
 }

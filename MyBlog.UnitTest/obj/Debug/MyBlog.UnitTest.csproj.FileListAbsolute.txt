@@ -27,32 +27,3 @@ C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.UnitTest\obj\Debug\MyBlog.U
 C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.UnitTest\obj\Debug\MyBlog.UnitTest.csproj.CopyComplete
 C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.UnitTest\obj\Debug\MyBlog.UnitTest.dll
 C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.UnitTest\obj\Debug\MyBlog.UnitTest.pdb
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\MyBlog.UnitTest.dll.config
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\MyBlog.UnitTest.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\MyBlog.UnitTest.pdb
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\EntityFramework.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\MyBlog.DTO.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\MyBlog.Service.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\MyBlog.Data.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\AutoMapper.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\MyBlog.DTO.pdb
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\MyBlog.Service.pdb
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\EntityFramework.xml
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\MyBlog.Data.pdb
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\MyBlog.Data.dll.config
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\AutoMapper.pdb
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\bin\Debug\AutoMapper.xml
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\obj\Debug\MyBlog.UnitTest.csprojAssemblyReference.cache
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\obj\Debug\MyBlog.UnitTest.csproj.CoreCompileInputs.cache
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\obj\Debug\MyBlog.UnitTest.csproj.CopyComplete
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\obj\Debug\MyBlog.UnitTest.dll
-C:\Users\bnb\Desktop\mvcproje\MyBlog\MyBlog.UnitTest\obj\Debug\MyBlog.UnitTest.pdb

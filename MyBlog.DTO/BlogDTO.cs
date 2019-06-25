@@ -1,4 +1,6 @@
-﻿namespace MyBlog.DTO
+﻿using System.Collections.Generic;
+
+namespace MyBlog.DTO
 {
     public class BlogDTO : IEntity
     {
@@ -10,9 +12,11 @@
         public string BlogContent { get; set; }
         public bool IsConfirmed { get; set; }
         public byte RecordStatusId { get; set; }
-        public System.DateTime CreatedDate { get; set; }
+        public System.DateTime CreatedDate { get; set; }      
 
         public string CategoryName { get; set; }
         public string Author { get; set; }
+        public string RecordStatusName { get; set; }
+        public List<CommentDTO> CommentList { get; set; }
     }
 }

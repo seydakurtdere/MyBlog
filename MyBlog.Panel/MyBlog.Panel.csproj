@@ -129,6 +129,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\BlogController.cs" />
     <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\UserController.cs" />
@@ -141,6 +142,7 @@
   <ItemGroup>
     <Content Include="Content\css\custom.css" />
     <Content Include="Content\css\custom.min.css" />
+    <Content Include="Content\emailtemplates\verify.txt" />
     <Content Include="Content\images\back_disabled.png" />
     <Content Include="Content\images\back_enabled.png" />
     <Content Include="Content\images\back_enabled_hover.png" />
@@ -3662,6 +3664,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\User\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\vendors\animate.css\.bower.json" />
@@ -4544,9 +4547,10 @@
     <Content Include="Views\Category\Save.cshtml" />
     <Content Include="Views\Category\Get.cshtml" />
     <Content Include="Views\Category\Edit.cshtml" />
-    <Content Include="Views\User\Index.cshtml" />
-    <Content Include="Views\User\Get.cshtml" />
-    <Content Include="Views\User\Save.cshtml" />
+    <Content Include="Views\Blog\Index.cshtml" />
+    <Content Include="Views\Blog\Save.cshtml" />
+    <Content Include="Views\Blog\Get.cshtml" />
+    <Content Include="Views\Blog\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MyBlog.DTO\MyBlog.DTO.csproj">

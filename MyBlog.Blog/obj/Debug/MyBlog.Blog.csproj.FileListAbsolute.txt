@@ -1,0 +1,180 @@
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\MyBlog.Blog.dll.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\MyBlog.Blog.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\MyBlog.Blog.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\csc.exe
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\csc.exe.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\csc.rsp
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\csi.exe
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\csi.exe.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\csi.rsp
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.AppContext.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Console.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\vbc.exe
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\vbc.exe.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\vbc.rsp
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\Antlr3.Runtime.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\EntityFramework.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\MyBlog.DTO.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\MyBlog.Service.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\Newtonsoft.Json.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.Helpers.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.Mvc.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.Optimization.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.Razor.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.WebPages.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\WebGrease.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\MyBlog.Data.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\AutoMapper.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\MyBlog.DTO.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\MyBlog.Service.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\EntityFramework.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.Helpers.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.Mvc.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.Optimization.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.Razor.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.WebPages.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\Newtonsoft.Json.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\Antlr3.Runtime.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\MyBlog.Data.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\MyBlog.Data.dll.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\AutoMapper.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\bin\AutoMapper.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\obj\Debug\MyBlog.Blog.csprojAssemblyReference.cache
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\obj\Debug\MyBlog.Blog.csproj.CoreCompileInputs.cache
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\obj\Debug\MyBlog.Blog.csproj.CopyComplete
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\obj\Debug\MyBlog.Blog.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Blog\obj\Debug\MyBlog.Blog.pdb
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\MyBlog.Blog.dll.config
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\MyBlog.Blog.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\MyBlog.Blog.pdb
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\csc.exe
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\csc.exe.config
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\csc.rsp
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\csi.exe
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\csi.exe.config
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\csi.rsp
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.AppContext.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Console.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.IO.Compression.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.Claims.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.ValueTuple.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\vbc.exe
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\vbc.exe.config
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\vbc.rsp
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\Antlr3.Runtime.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\EntityFramework.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\MyBlog.DTO.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\MyBlog.Service.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.Helpers.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.Mvc.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.Optimization.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.Razor.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.WebPages.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\WebGrease.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\MyBlog.Data.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\AutoMapper.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\MyBlog.DTO.pdb
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\MyBlog.Service.pdb
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.Helpers.xml
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.Mvc.xml
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.Optimization.xml
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.Razor.xml
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.WebPages.xml
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\Antlr3.Runtime.pdb
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\MyBlog.Data.pdb
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\MyBlog.Data.dll.config
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\AutoMapper.pdb
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\bin\AutoMapper.xml
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\obj\Debug\MyBlog.Blog.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\obj\Debug\MyBlog.Blog.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\obj\Debug\MyBlog.Blog.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\obj\Debug\MyBlog.Blog.dll
+C:\Users\lenovo\Desktop\MyBlog\MyBlog.Blog\obj\Debug\MyBlog.Blog.pdb

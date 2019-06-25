@@ -26,14 +26,14 @@ namespace MyBlog.Data
         public string LastName { get; set; }
         public int TownId { get; set; }
         public string MobilePhone { get; set; }
-        public byte UserTypeID { get; set; }
-        public string Password { get; set; }
-        public Nullable<System.DateTime> TokenValidUntil { get; set; }
-        public string Token { get; set; }
         public string EmailAddress { get; set; }
+        public string Password { get; set; }
         public bool IsEmailVerified { get; set; }
+        public byte UserTypeID { get; set; }
         public byte RecordStatusId { get; set; }
         public System.DateTime CreatedDate { get; set; }
+        public string Token { get; set; }
+        public Nullable<System.DateTime> TokenValidUntil { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Blog> Blogs { get; set; }
@@ -41,6 +41,6 @@ namespace MyBlog.Data
         public virtual ICollection<Comment> Comments { get; set; }
         public virtual RecordStatus RecordStatus { get; set; }
         public virtual Town Town { get; set; }
-        public virtual UserType UserType { get; set; }
+        public virtual UsersType UsersType { get; set; }
     }
 }

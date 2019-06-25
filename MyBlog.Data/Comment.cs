@@ -16,8 +16,8 @@ namespace MyBlog.Data
     {
         public int CommentId { get; set; }
         public int BlogId { get; set; }
-        public string CommentContent { get; set; }
         public int UserId { get; set; }
+        public string CommentContent { get; set; }
         public bool IsConfirmed { get; set; }
         public System.DateTime CreatedDate { get; set; }
     

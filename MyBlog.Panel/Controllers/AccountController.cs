@@ -48,5 +48,20 @@ namespace MyBlog.Panel.Controllers
 
             return RedirectToAction("Index", "Account");
         }
+
+        public ActionResult Verify(string id)
+        {
+            using (UserService userService = new UserService())
+            {
+                bool result = userService.Verify(id);
+
+                if (result)
+                {
+
+                }
+
+                return View();
+            }
+        }
     }
 }

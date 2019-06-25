@@ -31,8 +31,10 @@ namespace MyBlog.Service
                             BlogId = item.BlogId,
                             Title = item.Title,
                             CategoryName = item.Category.CategoryName,
-                            BlogContent = item.BlogContent.Substring(0, 250),
-                            CreatedDate = item.CreatedDate
+                            BlogContent = item.BlogContent.Length >= 250 ? item.BlogContent.Substring(0, 250) : item.BlogContent,
+                            ImagePath = item.ImagePath,
+                            CreatedDate = item.CreatedDate,
+                            RecordStatusName = item.RecordStatus.RecordStatusName
                         };
 
                         list.Add(obj);
@@ -51,8 +53,9 @@ namespace MyBlog.Service
         {
             using (UnitOfWork uow = new UnitOfWork())
             {
-                var result = uow.Blogs.Get(x =>
-                x.BlogId == id && x.IsConfirmed);
+                var result = uow.Blogs.Get(
+                x =>
+                x.BlogId == id);
 
                 if (result == null)
                 {
@@ -63,6 +66,7 @@ namespace MyBlog.Service
 
                 blog.CategoryName = result.Category.CategoryName;
                 blog.Author = result.User.FirstName + " " + result.User.LastName;
+                blog.RecordStatusName = result.RecordStatus.RecordStatusName;
 
                 return blog;
             }

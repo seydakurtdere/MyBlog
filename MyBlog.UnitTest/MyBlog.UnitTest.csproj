@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="MessageUT.cs" />
     <Compile Include="CategoryUT.cs" />
+    <Compile Include="MailUT.cs" />
     <Compile Include="UserUT.cs" />
     <Compile Include="BlogUT.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

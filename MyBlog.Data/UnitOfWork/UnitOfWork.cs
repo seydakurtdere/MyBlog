@@ -43,7 +43,7 @@ namespace MyBlog.Data.UnitOfWork
         public Repository<RecordStatus> RecordStatuses { get { return new Repository<RecordStatus>(db); } }
         public Repository<Town> Towns { get { return new Repository<Town>(db); } }
         public Repository<User> Users { get { return new Repository<User>(db); } }
-        public Repository<UserType> UsersTypes { get { return new Repository<UserType>(db); } }
+        public Repository<UsersType> UsersTypes { get { return new Repository<UsersType>(db); } }
 
         #endregion
     }

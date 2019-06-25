@@ -48,6 +48,7 @@
     <Compile Include="BlogService.cs" />
     <Compile Include="CategoryService.cs" />
     <Compile Include="DefinitionService.cs" />
+    <Compile Include="MailService.cs" />
     <Compile Include="Mapper.cs" />
     <Compile Include="MessageService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -65,6 +66,9 @@
       <Project>{927de4be-82b5-4332-912e-9ceeda6817ba}</Project>
       <Name>MyBlog.DTO</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
